@@ -8,7 +8,7 @@ This document intends to be an extensive, up-to-date guide to uFrame, crafted by
 
 ## Sections
 
-- #### [uFrame Guide](uframe-documentation/blob/master/pages/home.md)
+- #### [uFrame Guide](pages/home.md)
   An up-to-date information about uFrame MVVM and uFrame Graph Designer
 
 
