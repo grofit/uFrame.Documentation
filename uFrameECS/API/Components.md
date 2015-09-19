@@ -10,7 +10,7 @@ Components allow you to organize data into separate pieces.  In uFrame Component
 - [Loop Components]()
 
 #### Related Events
-- [On Component Created]()
+- [On Component Created](Handlers/ComponentCreated.md)
 - [On Component Destroyed]()
 - [On Property Changed]()
 
