@@ -4,15 +4,20 @@ Components allow you to organize data into separate pieces.  In uFrame Component
 ![](http://i.imgur.com/gq9EDmU.png)
 ## Scripting
 #### Related Actions
-- [Add Component]()
-- [Remove Component]()
-- [Get Component]()
-- [Loop Components]()
+![](http://i.imgur.com/uZU07Sr.png)
+##### A - Loop Group Items
+Loops through any set of components our group items.
+
+##### B - Add Component
+Adds a component to a gameobject
+
+##### C - Destroy Component
+Destroys a component on a gameobject
 
 #### Related Events
 - [On Component Created](Handlers/ComponentCreated.md)
-- [On Component Destroyed]()
-- [On Property Changed]()
+- [On Component Destroyed](Handlers/ComponentDestroyed.md)
+- [On Property Changed](Handlers/PropertyChanged.md)
 
 # API Documentation
 ## Properties

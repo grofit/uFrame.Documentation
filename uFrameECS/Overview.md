@@ -24,26 +24,33 @@ If you want quicker updates to the core framework, you can always install direct
 
 Clone each of the repositories and replace the following directories in the following locations.
 
-#### Invert.Common
+#### Invert.Common - Free Open Source
 Attributes and IOC Container
 https://github.com/InvertGames/Invert.Common
 
 Check this out to  Assets/Plugins/uFrame/Invert.Common
 
-#### uFrameKernel
-The core unity lifecycle system.
+#### uFrameKernel - Free Open Source
+The core uFrame lifecycle system used on all uFrame Unity products.
 https://github.com/InvertGames/uFrameKernel/tree/2.0
 > **IMPORTANT** Make sure you install the 2.0 branch
 
 Check this out to  Assets/Plugins/uFrame/uFrameKernel
 
 
-#### uFrame.ECS
+#### uFrame.ECS - Free Open Source
 https://github.com/InvertGames/uFrame.ECS
 https://github.com/InvertGames/uFrame.ECS.git
 Check this out to  Assets/Plugins/uFrame.ECS
 
+#### UniRx - Free Open Source
+You can use the full UniRx library from here:
+https://github.com/neuecc/UniRx.git
+Or use the bare essentials fork:
+https://github.com/InvertGames/UniRx.git
+Check this out to  Assets/Plugins/uFrame/UniRx
+> Note: If installing the full version you might need to remove some folders.
 
-#### Optional Code Generation Templates
+#### Optional Code Generation Templates - Free Open Source
 https://github.com/InvertGames/uFrame.ECS.Templates
 Check this out to Assets/Plugins/Editor/uFrame.ECS.Templates
