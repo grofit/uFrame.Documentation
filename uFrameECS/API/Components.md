@@ -4,7 +4,7 @@ Components allow you to organize data into separate pieces.  In uFrame Component
 ![](http://i.imgur.com/gq9EDmU.png)
 ## Scripting
 #### Related Actions
-![](http://i.imgur.com/uZU07Sr.png)
+![](../images/uZU07Sr.png)
 ##### A - Loop Group Items
 Loops through any set of components our group items.
 
