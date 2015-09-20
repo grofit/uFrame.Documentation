@@ -1,7 +1,7 @@
 # Components (The "C" in ECS)
 Components allow you to organize data into separate pieces.  In uFrame Components can be added directly to a gameObject directly in the Unity Editor.  In ECS components are structures for storing variables or properties that are needed to perform a behaviour or multiple behaviours.
 
-![](http://i.imgur.com/gq9EDmU.png)
+![](../images/gq9EDmU.png)
 ## Scripting
 #### Related Actions
 ![](../images/uZU07Sr.png)

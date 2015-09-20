@@ -4,8 +4,7 @@ Entities are nothing more than integer id's, they are used to effeciently keep t
 # The Entity Component
 When you add any ECS component to any object it will ensure that there is an entity component attached to it.  This is how a component is associated with an Id at runtime.
 
-![](http://i.imgur.com/MePCLEc.png)
-
+![](../images/MePCLEc.png)
 ### A - Entity Proxies
 These are mostly useful when you want to trigger an event on an entity from another game object.
 An example of this would be detecting a trigger enter event on the player but the collider lives on a child gameobject.

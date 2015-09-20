@@ -9,7 +9,7 @@ Welcome to the uFrame Entity Component Documentation!
 - [Handlers](API/Handlers.md)
 - [Events](API/Events.md)
 - [The Entity Component](API/EntityComponent.md)
-- [Custom Actions](Actions/CreateCustomActions.md)
+- [Custom Actions](API/CreateCustomActions.md)
 
 ## Tutorials
 - [Getting Started - Project Setup](https://youtu.be/uxivyGL5StA)

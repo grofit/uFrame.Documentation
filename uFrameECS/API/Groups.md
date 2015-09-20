@@ -1,5 +1,5 @@
 # Group Nodes
-![](http://i.imgur.com/rCnwuqS.png)
+![](../images/rCnwuqS.png)
 ## "Require" Items
 Require allows you to select specific components or other groups that an Entity must have in order for it to belong to the group.  
 

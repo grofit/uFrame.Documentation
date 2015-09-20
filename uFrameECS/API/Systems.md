@@ -1,11 +1,11 @@
 # Systems (The "S" in ECS)
 Systems are the bridge between groups/components, events and handlers to life.  With a system group multiple event handlers can be comprised into a logical group.
-![](http://i.imgur.com/FV9C1b0.png)
+![](../images/FV9C1b0.png)
 
 ## Also See
-- [Event Handlers]()
-- [Groups]()
-- [Components]()
+- [Event Handlers](../API/Handlers.md)
+- [Groups](../API/Groups.md)
+- [Components](../API/Components.md)
 
 # API Documentation
 Systems in code derive from EcsSystem, EcsSystem derives from the uFrame Kernel's SystemServiceMonoBehaviour.
