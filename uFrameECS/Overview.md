@@ -18,3 +18,32 @@ Welcome to the uFrame Entity Component Documentation!
 - [Creating And Using Groups 2 - Expression Filtering](https://youtu.be/iMjs26dA2rg)
 - [Creating And Using Custom Events](https://youtu.be/h_s-l30rNe0)
 - [Creating Custom Actions](https://youtu.be/AuockvC5Cys)
+
+# Installing ECS From Github - With or Without Editor
+If you want quicker updates to the core framework, you can always install directly from the source code.  Or if you want to use uFrame ecs without the designer tools, its completely free.
+
+Clone each of the repositories and replace the following directories in the following locations.
+
+#### Invert.Common
+Attributes and IOC Container
+https://github.com/InvertGames/Invert.Common
+
+Check this out to  Assets/Plugins/uFrame/Invert.Common
+
+#### uFrameKernel
+The core unity lifecycle system.
+https://github.com/InvertGames/uFrameKernel/tree/2.0
+> **IMPORTANT** Make sure you install the 2.0 branch
+
+Check this out to  Assets/Plugins/uFrame/uFrameKernel
+
+
+#### uFrame.ECS
+https://github.com/InvertGames/uFrame.ECS
+https://github.com/InvertGames/uFrame.ECS.git
+Check this out to  Assets/Plugins/uFrame.ECS
+
+
+#### Optional Code Generation Templates
+https://github.com/InvertGames/uFrame.ECS.Templates
+Check this out to Assets/Plugins/Editor/uFrame.ECS.Templates
