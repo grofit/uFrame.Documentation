@@ -58,3 +58,21 @@ public class IntervalBySeconds : UFAction
     }
 }
 ```
+
+## Accessing the underlying entity
+
+```
+using uFrame.Attributes;
+using UnityEngine;
+
+public class DoSomethingWithView : UFAction
+{
+    public override void Execute()
+    {
+        var componentOnEntity = EntityView.GetComponent<Something>();
+        componentOnEntity.DoSomething();
+    }
+}
+```
+
+You can also access the system via `System` property.
