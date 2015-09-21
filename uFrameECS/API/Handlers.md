@@ -5,7 +5,6 @@ In uFrame you can listen to custom events defined in a library, all the standard
 
 ![](../images/umx2Nzs.png)
 ## Scripting
-- [Events](../Handlers/Events.md)
 - [Component Created](../Handlers/ComponentCreated.md)
 - [Component Created](../Handlers/Destroyed.md)
 - [Property Changes](../Handlers/PropertyChanged.md)
@@ -23,8 +22,6 @@ Because components that belong to an entity can live on different game-objects, 
 
 ![](../images/p8TYcWd.png)
 
-See: [Entities](EntityComponent.md)
-
-# API Documentation
-
-## F.A.Q
+Also See:
+  - [Events](../Handlers/Events.md)
+  - [Entities](EntityComponent.md)
