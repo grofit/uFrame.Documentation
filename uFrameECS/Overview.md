@@ -1,5 +1,4 @@
 # uFrame Entity Component System
-![](https://www.lahc.edu/pageunderconstruction.png)
 Welcome to the uFrame Entity Component Documentation!
 
 ## Overview
@@ -27,31 +26,32 @@ Clone each of the repositories and replace the following directories in the foll
 #### Invert.Common - Free Open Source
 > Only needed if you haven't installed the unity package.
 Attributes and IOC Container
+
 https://github.com/InvertGames/Invert.Common
 
-Check this out to  Assets/Plugins/uFrame/Invert.Common
+Check this out to the folder  Assets/Plugins/uFrame/Invert.Common
 
 #### uFrameKernel - Free Open Source
 The core uFrame lifecycle system used on all uFrame Unity products.
 https://github.com/InvertGames/uFrameKernel/tree/2.0
 > **IMPORTANT** Make sure you install the 2.0 branch
 
-Check this out to  Assets/Plugins/uFrame/uFrameKernel
+Check this out to the folder  Assets/Plugins/uFrame/uFrameKernel
 
 
 #### uFrame.ECS - Free Open Source
 https://github.com/InvertGames/uFrame.ECS
 https://github.com/InvertGames/uFrame.ECS.git
-Check this out to  Assets/Plugins/uFrame.ECS
+Check this out to the folder  Assets/Plugins/uFrame.ECS
 
 #### UniRx - Free Open Source
 You can use the full UniRx library from here:
 https://github.com/neuecc/UniRx.git
 Or use the bare essentials fork:
 https://github.com/InvertGames/UniRx.git
-Check this out to  Assets/Plugins/uFrame/UniRx
+Check this out to the folder Assets/Plugins/uFrame/UniRx
 > Note: If installing the full version you might need to remove some folders.
 
 #### Optional Code Generation Templates - Free Open Source
 https://github.com/InvertGames/uFrame.ECS.Templates
-Check this out to Assets/Plugins/Editor/uFrame.ECS.Templates
+Check this out to the folder Assets/Plugins/Editor/uFrame.ECS.Templates
