@@ -25,6 +25,7 @@ If you want quicker updates to the core framework, you can always install direct
 Clone each of the repositories and replace the following directories in the following locations.
 
 #### Invert.Common - Free Open Source
+> Only needed if you haven't installed the unity package.
 Attributes and IOC Container
 https://github.com/InvertGames/Invert.Common
 
