@@ -68,9 +68,9 @@ public partial class Health : uFrame.ECS.EcsComponent {
      }
 }
 ```
-## Collections
-
 
 ## F.A.Q
 Can I used a component as a event handler group?
 Yes!
+Can I use regular instantiate and destroy methods?
+Yes! All Ecs Components you add to your gameobjects will automatically register themselves when loaded, and when destroyed using UnityEngine.Object.Destroy || UnityEngine.Object.Instantiate.
