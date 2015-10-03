@@ -28,7 +28,7 @@ public static class GameObjects
 using uFrame.Attributes;
 using UnityEngine;
 
-[ActionTitle("Interval By Seconds"), uFrameCategory("Timers")]
+[ActionTitle("Interval By Seconds"), uFrameCategory("Timers"), AsyncAction]
 public class IntervalBySeconds : UFAction
 {
 
@@ -58,3 +58,6 @@ public class IntervalBySeconds : UFAction
     }
 }
 ```
+
+## Async Action Attribute
+The "AsyncAction" attribute is required on actions that invoke an action branch outside of the current execution frame. In the above example "InvervalBySeconds", it tags the attribute because the "Tick" output branch is invoked after a few seconds and not immediately.
